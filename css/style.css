@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&family=Montserrat&family=Roboto&display=swap');
+
+* {
+	font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+	font-family: 'Rock Salt', cursive;
+	font-size: 46px;
+}
